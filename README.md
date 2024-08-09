@@ -1,6 +1,3 @@
-# UNGP_Chatbot
-UNGP Preliminary Internship Task
-
 # UNGP DEMO CHATBOT
 
 This repository contains the code for a chatbot that can answer questions based on data from CSV files using a combination of the Gemini API and the Mistral model. The chatbot is designed to help users extract insights from CSV data, providing relevant answers along with the source files where the information was found.

@@ -19,4 +19,6 @@ The demo for this chatbot is run using Gradio. However, the Gradio interface has
 ![WhatsApp Image 2024-08-09 at 09 16 45_55e30dc6](https://github.com/user-attachments/assets/4462bc13-43ac-41f6-ab62-06ec9260242f)
 ![WhatsApp Image 2024-08-09 at 09 20 20_6a930436](https://github.com/user-attachments/assets/c18d2a36-03bc-4906-970d-d6e253065abd)
 ![WhatsApp Image 2024-08-09 at 09 15 49_efe89bcd](https://github.com/user-attachments/assets/7a32d13a-1127-4b52-94f8-5b4181b1fb97)
+![image](https://github.com/user-attachments/assets/a3d3b761-c3ce-4e2e-9d86-bf8c27e4c790)
+
 
